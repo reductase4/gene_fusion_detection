@@ -25,16 +25,16 @@ Zhou, Y., Zhang, C., Zhang, L., Ye, Q., Liu, N., Wang, M., Long, G., Fan, W., Lo
 <a href="#Quick_start">2. Quick start</a>
 <a href="#Workflow">3. Workflow</a>
 
-<a name="Installation">1. Installation</a>
+**<a name="Installation">1. Installation</a>**
 
 Install all softwares and set up for environment variables according to <a href="https://bitbucket.org/yaanlpc/rgaugury/wiki/Home">RGAugury</a>. Make sure RGAugury correctly working.
 
 Set the  environment variables to the path of RGAugury_pipeline in scripts folder of this project.
 
 
-<a name="Quick_start">2. Quick start</a>
+**<a name="Quick_start">2. Quick start</a>**
 
-The main script is gene_fusion_pipeline.py. 
+The main script is ***gene_fusion_pipeline.py*** 
 
 usage: gene_fusion_pipeline.py [-h] -d DIR -s SPECIES -o ORDER [-e EXPRESSION]
 
@@ -51,7 +51,7 @@ BASIC OPTIONS:
 
 **-e, --expression** \<expression dir> Any type of gene expression(Optional).
 
-<a name="Workflow">3. Workflow</a>
+**<a name="Workflow">3. Workflow</a>**
 
 **Step1. RGAugury**
 
