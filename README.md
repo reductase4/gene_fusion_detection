@@ -36,7 +36,7 @@ Set the  environment variables to the path of RGAugury_pipeline in scripts folde
 
 The main script is ***gene_fusion_pipeline.py*** 
 
-usage: gene_fusion_pipeline.py [-h] -d DIR -s SPECIES -o ORDER [-e EXPRESSION]
+Usage: gene_fusion_pipeline.py [-h] -d DIR -s SPECIES -o ORDER [-e EXPRESSION]
 
 
 BASIC OPTIONS:
@@ -68,7 +68,7 @@ BASIC OPTIONS:
 
 **Step2. extract protein sequences**
 
-extract TNL/NL/TX/TN peps
+extract protein sequences of TNL, NL, and TX
 
 _extract_target_info:_
 Contains all scripts used to extract proteins and domains identified from RGAugury.
