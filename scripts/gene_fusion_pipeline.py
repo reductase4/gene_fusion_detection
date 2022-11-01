@@ -86,9 +86,9 @@ print('#####################')
 print('Step3 fused gene detection...')
 SH = work_steps + os.sep + 'step3.fused_gene_detection.sh'
 sh = open(SH,'w')
-pre_TNL = pre_data_file + os.sep + 'all_TNL_45species.pep'
-pre_NL = pre_data_file + os.sep + 'all_NL_45species.pep'
-pre_TX = pre_data_file + os.sep + 'all_TX_45species.pep'
+pre_TNL = pre_data_file + os.sep + 'all_TNL_45_species_pep.txt'
+pre_NL = pre_data_file + os.sep + 'all_NL_45_species_pep.txt'
+pre_TX = pre_data_file + os.sep + 'all_TX_45_species_pep.tx'
 new_TNL = pep_results + os.sep + 'TNL' +os.sep + 'all_TNL.pep'
 new_NL = pep_results + os.sep + 'NL' +os.sep + 'all_NL.pep'
 new_TX = pep_results + os.sep + 'TX' +os.sep + 'all_TX.pep'
