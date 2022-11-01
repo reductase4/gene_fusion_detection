@@ -34,11 +34,7 @@ Set the  environment variables to the path of RGAugury_pipeline in scripts folde
 
 **<a name="Quick_start">2. Quick start</a>**
 
-<<<<<<< HEAD
 The main script is ***gene_fusion_pipeline.py*** 
-=======
-The main script is ***gene_fusion_pipeline.py***
->>>>>>> a88283d7832fdecb1b2ea0b73618e3c614f3308d
 
 usage: gene_fusion_pipeline.py [-h] -d DIR -s SPECIES -o ORDER [-e EXPRESSION]
 
